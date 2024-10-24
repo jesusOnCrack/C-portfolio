@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// this is a change teste
 void PrintVerticalBricks(int n);
 void PrintVerticalSpaces(int n);
 void PrintHorizontalSpaces(int n);
